@@ -1,86 +1,133 @@
-"Ucles" - team name
+# System-Analysis-and-Design-SAD---Project-Plan-1
 
-Groups members are Hamidov Qudrat - 202490125 (leader), Yuldashev Dilshodbek - 202490381, Rihsitillayev Azizbek 202490271, Karamatov Farid - 202490160
---------------------------------
-((((1. Subject: Cap 1: System Analysis and Design
-2. Content: Project Plan Submission
-3. Deadline: February 11th
-4. Submission Method: Write the plan on your team leader's GitHub and share the GitHub URL on this Telegram.))))
+## 🏥 Subject: System Analysis and Design
 
-1. Course Name
+**Content:** Project Plan Submission
 
-Cap1: System Analysis and Design
+**Deadline:** February 11th  
 
+**Submission Method:** Write the plan on your team leader's GitHub and share the GitHub URL on this Telegram
 
-3. Project Title
+**Team name:** Uncles
+
+---
+
+## 👥 Team Members & Roles
+
+| Role | Name | Student ID |
+| :--- | :--- | :--- |
+| **Project Manager** | Hamidov Qudrat | `202490125` |
+| **System Analyst** | Yuldashev Dilshodbek | `202490381` |
+| **Database Architect** | Rihsitillayev Azizbek | `202490271` |
+| **UI/UX Designer** | Karamatov Farid | `202490160` |
+
+---
+
+## Course Name
+
+#### Cap1: System Analysis and Design
+
+---
+
+## Project Title
 Smart Retail Store Management System
 Nice, clear, database friendly.
 
-4. Problem Statement (Why system is needed?)
+---
+
+## Problem Statement (Why system is needed?)
 Many small shops still manage operations manually.
-Because of this:
+#### Because of this:
+
 Sales records are lost.
+
 Stock levels are inaccurate.
+
 Managers cannot track profit.
+
 Customer purchase history is unavailable.
+
 A digital system will improve control and decision making.
 
-5. Project Objectives
-You want to:
+---
+
+## Project Objectives
+#### You want to:
+
 Design a system to record sales and inventory.
+
 Help staff work faster.
+
 Allow managers to monitor performance.
+
 Prepare structure for future SQL implementation.
 
-6. Scope of the System
-System will include:
+---
+
+## Scope of the System
+#### System will include:
 Product management
+
 Inventory tracking
+
 Sales processing
+
 Customer information
+
 Reporting for managers
-System will not include:
+
+#### System will not include:
+
 Online payment integration
+
 Delivery management
+
 Mobile application
 
-7. Expected Users
-Customer
-Buy products
-Receive receipt
-Staff / Employee
-Add sales
-Update stock
-Register customers
-Manager
-View reports
-Check revenue
-Monitor inventory
-Manage employees
+---
 
-8. Project Timeline (5 Weeks)
-Week 1
+## Expected Users
+Customer ->
+Buy products ->
+Receive receipt ->
+Staff / Employee ->
+Add sales ->
+Update stock ->
+Register customers ->
+Manager ->
+View reports ->
+Check revenue ->
+Monitor inventory ->
+Manage employees 
+
+---
+
+## Project Timeline (5 Weeks)
+#### Week 1
 Select system idea
 Define problem
 Assign responsibilities
-Week 2
+
+#### Week 2
 Create Business Process Model (BPM)
 Identify main workflows
 
-Week 3
+#### Week 3
 Draw Use Case Diagram
 Write functional requirements
 
-Week 4
+#### Week 4
 Design ER Diagram
 Define tables and relationships
 
-Week 5
+#### Week 5
 Prepare report
 Prepare slides
 Practice presentation
 
-9. Outcome of the Project
+---
+
+## Outcome of the Project
 At the end, students will understand:
 How real systems are planned
 How business needs become technical design
@@ -89,7 +136,9 @@ Use case modeling
 Database structure thinking
 Team collaboration
 
-10. Conclusion
+---
+
+## Conclusion
 
 The project demonstrates how analysis and design help build organized information systems.
 
