@@ -1,4 +1,4 @@
-## 3. Supplier to Inventory Flow Diagram
+## Supplier to Inventory Flow Diagram
 
 ```mermaid
 graph TD
